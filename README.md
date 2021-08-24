@@ -20,5 +20,7 @@ Only PNG images will be accepted, the console only shows images with this format
 There's a test image in the folder named "Images", the password for the image is "python".
 To ensure the correct functionality is important to don't rename any of the folders.
 
+# Report any problems.
+
 MSArturo.
 

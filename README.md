@@ -1,6 +1,6 @@
 # Steganography_py is an executable created to save text in PNG images.
 The project includes the executable (main.exe), the folder with the photos to work with and an extra folder with the background sound (audio).
-The folder with the images have to be included to work correctly, but its optional to delete the audio folder if no music is wanted.
+The folder with the images has to be included to work correctly, but it's optional to delete the audio folder if no music is wanted.
 
 # There's 3 different options in the main menu
 Once the image is selected from the folder "Images" a menu will pop up to show the different options

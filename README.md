@@ -13,7 +13,7 @@ This mode is used to read the text on the image with the same password used to s
 If the password is wrong an error will pop up and the program will finalize 
 
 # Delete content/Borrar contenido
-This mode is used to delete the information saved on the image. Reading the content doesn't remove the text from the image, so this mode will do it. There's no way to recover the information after it's deleted. There's no need to used this mode before saving information, the information will be stored correctly.
+This mode is used to delete the information saved on the image. Reading the content doesn't remove the text from the image, so this mode will do it. There's no way to recover the information after it's deleted. There's no need to used this mode before saving information, the information will be stored correctly anyway.
 
 # Some more information
 Only PNG images will be accepted, the console only shows images with this format.

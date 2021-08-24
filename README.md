@@ -20,6 +20,10 @@ Only PNG images will be accepted, the console only shows images with this format
 There's a test image in the folder named "Images", the password for the image is "python".
 To ensure the correct functionality is important to don't rename any of the folders.
 
+# Encryption
+There's multiple encryption sistems on this project. The main consists on lineal algebra combined with SHA256, so is highly secure.
+Feel free to break the program and try to extract the text without the password.
+
 # Report any problems.
 
 MSArturo.

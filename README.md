@@ -25,6 +25,8 @@ There's multiple encryption systems on this project. The main consists of lineal
 Feel free to break the program and try to extract the text without the password.
 
 # Report any problems.
-
 MSArturo.
+
+# v1.2
+Added extra layer of security for those who like to touch what it doesn't sound. Photos modified on v1.1 are still compatible and is not necessary (in terms of security) to repeat the process on this version. There's also minor improves.
 
